@@ -82,8 +82,8 @@ button {
 .graph {
   background: #060606;
   margin-top: 7vh;
-  width: 69vw;
-  height: 45vh;
+  width: 68vw;
+  height: 42vh;
   border: 1px solid rgb(49, 199, 226);
   overflow-y: hidden;
   overflow-x: hidden;

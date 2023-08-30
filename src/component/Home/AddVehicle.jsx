@@ -146,6 +146,7 @@ const AddVehicle = () => {
             <select
               name="Direction"
               id="direction"
+              required
               onChange={(e) => onChangeData(e)}
             >
               <option value="">Select Direction</option>
